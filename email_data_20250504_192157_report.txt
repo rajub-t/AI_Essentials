@@ -1,0 +1,21 @@
+Processing Report (20250504_192157)
+==================================================
+Total rows initially loaded: 3332
+Rows removed as junk: 3332
+NULL value counts and percentages:
+  sender: 0 (nan%)
+  receiver: 0 (nan%)
+  Date: 0 (nan%)
+  Subject: 0 (nan%)
+  Body: 0 (nan%)
+  urls: 0 (nan%)
+  label: 0 (nan%)
+  Sender: 0 (nan%)
+  Recipient: 0 (nan%)
+  SenderDomain: 0 (nan%)
+  is_junk: 0 (nan%)
+Output Columns: Sender, Recipient, SenderDomain, Date, Subject, Body
+Sample Processed Data (First 5 Rows):
+Empty DataFrame
+Columns: [Sender, Recipient, SenderDomain, Date, Subject, Body]
+Index: []
